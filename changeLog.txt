@@ -1,0 +1,9 @@
+15/06/23
+Driver registration update for company type
+bankUpdateInfo model
+companies model
+newBank model
+withdrawal list model
+withdrawal model
+Home Screen (withdrawal, withdrawal status, total withdrawal, new  bank info
+withdraw folder
